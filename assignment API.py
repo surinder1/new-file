@@ -46,7 +46,7 @@ consumer_key_038="x*******************8"
 consumer_secret_038="*************************88"
 
 access_token_038="2919*****************************"
-access_token_secret_038="***************************"
+access_token_secret_083="***************************"
 
 auth=tweepy.OAuthHandler(consumer_key_038,consumer_secret_038)
 auth.set_access_token(access_token_038,access_token_secret_038)
